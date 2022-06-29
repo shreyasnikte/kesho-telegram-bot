@@ -14,4 +14,4 @@ Supported Commands:
 - Pause - Pauses current audio playback
 - Stop - Stops the current song and removes it from the player 
 
-Inspired from  (pietrocolombo's)[https://gist.github.com/pietrocolombo] work
+Inspired from  [pietrocolombo's](https://gist.github.com/pietrocolombo) work
