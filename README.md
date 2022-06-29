@@ -13,3 +13,5 @@ Supported Commands:
 - Play - Play _"Title Name"_ (without quotes) will play the youtube recommendation which matches _"Title Name"_ 
 - Pause - Pauses current audio playback
 - Stop - Stops the current song and removes it from the player 
+
+Inspired from  (pietrocolombo's)[https://gist.github.com/pietrocolombo] work
