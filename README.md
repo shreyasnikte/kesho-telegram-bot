@@ -10,6 +10,6 @@ Operation:
 4. The audio stream of that video is extracted and played on the host computer.
 
 Supported Commands:
-- Play - Play _Title Name_ will play the youtube recommendation which matches _Title Song_ 
+- Play - Play _"Title Name"_ (without quotes) will play the youtube recommendation which matches _"Title Name"_ 
 - Pause - Pauses current audio playback
 - Stop - Stops the current song and removes it from the player 
