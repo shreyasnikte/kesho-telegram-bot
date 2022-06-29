@@ -8,3 +8,8 @@ Operation:
 2. The user query is searched on Youtube platform and list of results (a.k.a. Youtube recommendations for the query) is obtained. 
 3. The bot then selects the first youtube recommendation for the queried title.
 4. The audio stream of that video is extracted and played on the host computer.
+
+Supported Commands:
+- Play - Play _Title Name_ will play the youtube recommendation which matches _Title Song_ 
+- Pause - Pauses current audio playback
+- Stop - Stops the current song and removes it from the player 
